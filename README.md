@@ -12,7 +12,7 @@
 
 - **Frontend:** HTML, Tailwind CSS, JavaScript  
 - **Backend:** Python (Flask)  
-- **Database:** SQLite  
+- **Database:** SQL,SQLite  
 - **Others:** Data Analysis, AI Prompting
 
 ---
