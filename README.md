@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Thunti Rahul Yadav
 
-<!--
-**thuntirahulyadav/thuntirahulyadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a BTech 3rd year Computer Science Engineering student specializing in **AI/ML**.  
+🚀 Currently working on two exciting projects to solve real-world problems:
 
-Here are some ideas to get you started:
+- 🩺 **HealVault** — A secure platform to store and access medical records anytime, anywhere.  
+- 📚 **StudyNest** — Centralized hub for learning resources to help students learn more efficiently.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Skills
+
+- **Frontend:** HTML, Tailwind CSS, JavaScript  
+- **Backend:** Python (Flask)  
+- **Database:** SQLite  
+- **Others:** Data Analysis, AI Prompting
+
+---
+
+## 🤝 I'm open to
+
+- Collaborations on open-source or impactful projects  
+- Contributions to AI/ML or EdTech-related ideas  
+- Freelancing or internship opportunities
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: [thuntirahulyadav@gmail.com](mailto:thuntirahulyadav@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/thunti-rahul-yadav-3a2289372](https://www.linkedin.com/in/thunti-rahul-yadav-3a2289372)  
+- 🌐 Portfolio: [thuntirahulyadav.github.io/my-portfolio](https://thuntirahulyadav.github.io/my-portfolio)
+
+---
+
+> "I believe in building solutions that matter and learning by doing."  
+Let’s connect and create something impactful!
+
