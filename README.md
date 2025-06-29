@@ -3,7 +3,7 @@
 🎓 I'm a BTech 3rd year Computer Science Engineering student specializing in **AI/ML**.  
 🚀 Currently working on two exciting projects to solve real-world problems:
 
-- 🩺 **HealVault** — A secure platform to store and access medical records anytime, anywhere.  
+- 🩺 **HealthVault** — A secure platform to store and access medical records anytime, anywhere.  
 - 📚 **StudyNest** — Centralized hub for learning resources to help students learn more efficiently.
 
 ---
