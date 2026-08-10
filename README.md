@@ -145,7 +145,7 @@ I'm actively looking for opportunities where I can learn from experienced engine
 📫 Connect With Me
 
 - 📧 Email: thuntirahulyadav@gmail.com
-- 💼 LinkedIn: "linkedin.com/in/thunti-rahul-yadav-3a2289372" (https://www.linkedin.com/in/thunti-rahul-yadav-3a2289372)
+- 💼 LinkedIn: "linkedin.com/in/rahulyadavthunti" (https://www.linkedin.com/in/rahulyadavthunti)
 - 🌐 Portfolio: "thuntirahulyadav.github.io/my-portfolio" (https://thuntirahulyadav.github.io/my-portfolio)
 
 ---
