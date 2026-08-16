@@ -22,32 +22,31 @@ I enjoy working across Python, AI/ML, backend development, databases, and intell
 * Using **Random Forest Regressor** with **Pandas** for data preprocessing and model development.
 * Serializing the trained model using **Pickle (.pkl)** and deploying it through a web interface for real-time predictions.
 
-📚 SVUSTUDYNEST
+### 📚 SVUSTUDYNEST
 
 A centralized education resource platform designed to help students access academic materials from a single place.
 
-Key areas:
+**Key areas:**
 
-- Study materials and notes
-- Subject-wise resources
-- PDF and document management
-- YouTube learning resources
-- College/branch/semester-based organization
-- Dynamic admin management
+* Study materials and notes
+* Subject-wise learning resources
+* PDF and document management
+* YouTube learning resources
+* College, branch, and semester-based organization
+* Dynamic admin management
 
-  
-🩺 HealthVault
+### 🩺 HealthVault
 
 A secure digital platform designed to help patients store, manage, and access their medical records in one place.
 
-Key areas:
+**Key areas:**
 
-- Patient medical record management
-- Hospital/admin document uploads
-- Discharge summaries and prescriptions
-- Laboratory and radiology reports
-- Secure patient access
-- Cloud-based document storage
+* Patient medical record management
+* Hospital/admin document uploads
+* Discharge summaries and prescriptions
+* Laboratory and radiology reports
+* Secure patient access
+* Cloud-based document storage
 
 
 ---
