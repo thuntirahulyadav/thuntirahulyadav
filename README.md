@@ -8,20 +8,19 @@ I enjoy working across Python, AI/ML, backend development, databases, and intell
 
 ---
 
-🚀 Currently Working On
+## 🚀 Currently Working On
 
-🩺 HealthVault
+### 🤖 SVUCE.AI — RAG-Based University Assistant
 
-A secure digital platform designed to help patients store, manage, and access their medical records in one place.
+* Building an AI-powered assistant that answers academic and administrative queries using **Retrieval-Augmented Generation (RAG)**.
+* Developing the retrieval pipeline using **LangChain and ChromaDB** with university-specific datasets.
+* Integrating the **Gemini API** to generate accurate, context-aware, and grounded responses.
 
-Key areas:
+### 🌱 Smart Crop Recommendation System
 
-- Patient medical record management
-- Hospital/admin document uploads
-- Discharge summaries and prescriptions
-- Laboratory and radiology reports
-- Secure patient access
-- Cloud-based document storage
+* Developing a machine learning system that recommends suitable crops based on **soil and climate conditions**.
+* Using **Random Forest Regressor** with **Pandas** for data preprocessing and model development.
+* Serializing the trained model using **Pickle (.pkl)** and deploying it through a web interface for real-time predictions.
 
 📚 SVUSTUDYNEST
 
@@ -36,9 +35,20 @@ Key areas:
 - College/branch/semester-based organization
 - Dynamic admin management
 
-🤖 SVUCE.ai
+  
+🩺 HealthVault
 
-An AI-powered college assistant focused on helping students quickly find and interact with college-related information and resources using AI and Retrieval-Augmented Generation (RAG).
+A secure digital platform designed to help patients store, manage, and access their medical records in one place.
+
+Key areas:
+
+- Patient medical record management
+- Hospital/admin document uploads
+- Discharge summaries and prescriptions
+- Laboratory and radiology reports
+- Secure patient access
+- Cloud-based document storage
+
 
 ---
 
