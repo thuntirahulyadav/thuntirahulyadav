@@ -35,18 +35,19 @@ A centralized education resource platform designed to help students access acade
 * College, branch, and semester-based organization
 * Dynamic admin management
 
-### 🩺 HealthVault
+### 🏠 HomeCare Physiotherapy Management System
 
-A secure digital platform designed to help patients store, manage, and access their medical records in one place.
+A platform designed to connect **physiotherapists and patients** and simplify home-care appointment management.
 
 **Key areas:**
 
-* Patient medical record management
-* Hospital/admin document uploads
-* Discharge summaries and prescriptions
-* Laboratory and radiology reports
-* Secure patient access
-* Cloud-based document storage
+* Physiotherapist and patient management
+* Home visit appointment booking
+* Appointment scheduling and booking workflow
+* Patient and physiotherapist information management
+* Database integration
+* Streamlined home-care service management
+
 
 
 ---
