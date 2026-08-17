@@ -58,7 +58,6 @@ A platform designed to connect **physiotherapists and patients** and simplify ho
 
 - Python
 - Java
-- SQL
 
 🌐 Web Development
 
