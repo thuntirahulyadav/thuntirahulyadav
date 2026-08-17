@@ -57,7 +57,7 @@ A platform designed to connect **physiotherapists and patients** and simplify ho
 💻 Programming
 
 - Python
-- C
+- Java
 - SQL
 
 🌐 Web Development
@@ -93,7 +93,6 @@ A platform designed to connect **physiotherapists and patients** and simplify ho
 - VS Code
 - REST APIs
 - Cloudinary
-- Firebase
 - Render
 
 🧠 Computer Science Fundamentals
